@@ -1,0 +1,43 @@
+body{
+background-color:white;
+margin:center;
+text-align: center;
+}
+.box{
+    border: 2px solid black;
+    max-width: fit-content;
+    background-color:rgb(233, 236, 239);
+    margin: auto;
+    box-sizing: border-box;
+}
+.heading{
+    text-align:center;
+    box-sizing: border-box;
+}
+.heading-span{
+    padding-top:1rem;
+    background-color:rgb(33, 37, 41);
+    border-bottom:1px solid black;
+    color:rgb(222, 226, 230)
+}
+
+.num{
+    display: inline-block;
+    padding:2rem ;
+    background-color:silver;
+}
+.num-1{
+    display: inline-block;
+    padding: 2rem;
+    background-color:silver;
+}
+.num-2{
+    display: inline-block;
+    padding: 2rem;
+    background-color:silver;
+}
+.num-3{
+    display: inline-block;
+    padding:2rem;
+    background-color:silver;
+}
